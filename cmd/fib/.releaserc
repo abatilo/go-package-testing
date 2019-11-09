@@ -1,0 +1,8 @@
+{
+  "tagFormat": "foo-v${version}",
+  "repositoryUrl": "https://github.com/abatilo/blog.git",
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator"
+  ]
+}
